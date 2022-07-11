@@ -1,5 +1,5 @@
 # markoveljic
 
-#strona stworzona na wordpressie
+strona stworzona na wordpressie
 
-#http://www.markoveljic.com/
+http://www.markoveljic.com/
