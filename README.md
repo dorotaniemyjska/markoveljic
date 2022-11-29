@@ -1,5 +1,8 @@
-# markoveljic
+# Marko Veljic
 
-strona stworzona na wordpressie
+Strona wykonana z wykorzystaniem skryptu Wordpress.Witryna została przystosowana do wygodnego przeglądania za pośrednictwem urządzeń mobilnych.
 
-http://www.markoveljic.com/
+Klient: Marko Veljic -grafik freelancer</br>
+Data realizacji: wrzesień 2022 </br>
+Link do strony: http://www.markoveljic.com </br>
+Typ realizacji: Strona internetowa </br>
